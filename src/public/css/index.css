@@ -1,0 +1,118 @@
+.success_message_2 {
+    padding: 10px 30px;
+    border-color: #badbcc;
+    background-color: #d1e7dd;
+    color: #0f5132;
+}
+
+.whole {
+    margin: 0 auto;
+    padding: 60px 15px;
+    max-width: 1230px;
+}
+
+.form{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    width: 70%;
+    text-align: center;
+}
+
+.text {
+    width: 70%;
+}
+
+.text__box {
+    padding: 10px;
+    width: 100%;
+    height: 40px;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+}
+
+.button {
+    width: 20%;
+}
+
+.button__create {
+    padding: 10px;
+    width: 100%;
+    height: 40px;
+    border: none;
+    border-radius: 3px;
+    background: #000;
+    color: #fff;
+    cursor: pointer;
+}
+
+.Todo__list {
+    margin: 30px auto;
+    width: 70%;
+    text-align: left;
+}
+
+.Todo__table {
+    width: 100%;
+}
+
+.Todo__tr {
+    border-bottom: 1px solid #ddd;
+}
+
+.Todo {
+    padding: 12px;
+    width: 20%;
+    text-align: left;
+    font-weight: bold;
+}
+
+.test__td:first-of-type {
+    padding: 12px;
+    width: 90%;
+}
+
+.test__form {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.test_div{
+    width: 80%;
+    line-height: 50%;
+}
+
+.test__input {
+    width: 100%;
+    outline: none;
+    border: none;
+}
+
+.test__update__div {
+    width: 50px;
+}
+
+.test__update__button {
+    padding: 5px;
+    width: 100%;
+    border: none;
+    border-radius: 3px;
+    background: #0000ff;
+    color: #fff;
+    cursor: pointer;
+}
+
+.test__delete__div {
+    width: 50px;
+}
+
+.test__delete__button {
+    padding: 5px;
+    width: 100%;
+    border: none;
+    border-radius: 3px;
+    background: #ff0000;
+    color: #fff;
+    cursor: pointer;
+}

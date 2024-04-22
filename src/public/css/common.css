@@ -1,0 +1,12 @@
+.header{
+    background-color: black;
+}
+.header-inner{
+    margin: 0 auto;
+    max-width: 1230px;
+    padding: 20px 15px;
+}
+.header-rogo{
+    color: floralwhite;
+    font: size 20px;
+}
