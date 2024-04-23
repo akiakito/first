@@ -66,6 +66,9 @@
     text-align: left;
     font-weight: bold;
 }
+.test__tr{
+    border-bottom: 1px solid #ddd;
+}
 
 .test__td:first-of-type {
     padding: 12px;
